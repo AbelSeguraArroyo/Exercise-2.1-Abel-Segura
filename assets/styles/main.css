@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+article{
+    background-color: rgb(97, 44, 44);
+    color: rgb(157, 159, 182);
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.properties_articles h3, p{
+font-weight: bold;
+text-decoration: underline;
+}
